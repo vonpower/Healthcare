@@ -7,11 +7,11 @@
 <table>
 <tr><td colspan="2"><a href="#tool-related">1. Tool related</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#machine-learning">1.1 Machine Learning</a></td>
-    <td>&ensp;<a href="#deep-learning">1.2 Deep Learning</a></td>
+    <td>&emsp;<a href="#machine-learning-theory">1.1 Machine Learning</a></td>
+    <td>&ensp;<a href="#deep-learning-theory">1.2 Deep Learning</a></td>
 </tr>
 <tr>
-    <td>&emsp;<a href="#radiomics">1.3 Radiomics</a></td>
+    <td>&emsp;<a href="#radiomics-theory">1.3 Radiomics</a></td>
     <td></td>
 </tr>
 <tr><td colspan="2"><a href="#application-related">2. Application related</a></td></tr>
@@ -28,11 +28,11 @@
 
 ## [Tool related](#content)  
 
-### [Machine Leaining](#content)  
+### [Machine Learning Theory](#content)  
 
-### [Deep Learning](#content)
+### [Deep Learning Theory](#content)
 
-### [Radiomics](#content)
+### [Radiomics Theory](#content)
 
 ## [Application related](#content)  
 
