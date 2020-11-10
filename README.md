@@ -38,16 +38,38 @@
 
 ### [Machine Learning](#content)  
 #### 有监督学习
-+  **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network**
-[paper](./Application Related/Machine Learning/Supervised learning/2019-Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network.pdf)  
-**Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng
+1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network** Nature Medicine 25, 65–69(2019)
+
+*Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
+
+#### 无监督学习
+1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy** European Journal of Heart Failure (2018)
+
+*Maja Cikes1, Sergio Sanchez-Martinez, Brian Claggett, Nicolas Duchateau, Gemma Piella, Constantine Butakoff, Anne Catherine Pouleur, Dorit Knappe, Tor Biering-Sørensen, Valentina Kutyifa, Arthur Moss, Kenneth Stein, Scott D. Solomon, and Bart Bijnens*
 
 
 ### [Deep Learning](#content)
 
 ### [Radiomics](#content)
+#### 非超声影像
+1. **Radiomics Analysis for Evaluation of Pathological Complete Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer** Clinical Cancer Research (2017)
+
+*Zhenyu Liu, Xiao-Yan Zhang,Yan-Jie Shi, Lin Wang, Hai-Tao Zhu, Zhenchao Tang, Shuo Wang, Xiao-Ting Li, Jie Tian, and Ying-Shi Sun*
+
+#### 超声影像
+1. **面向淋巴结病变多分类鉴别的弹性和 B 型 双模态超声影像组学** 生物医学工程学杂志 2019年12月第36卷第6期
+
+*石颉1, 2，江建伟3，常婉英3，陈曼3，张麒1, 2*
 
 ### [Combination](#content)
+#### 硕士学位论文
+1. **基于深度学习的医学CT图像中器官的区域检测** 南京师范大学 (2018)
+
+*嵇伟伟*
+
+1. **基于影像组学和深度迁移学习的超声图像肝纤维化评估方法研究** 深圳大学 (2019)
+
+*赵万明*
 
 ## [Related Research Platform](#content)
 + [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
