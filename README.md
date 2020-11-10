@@ -38,14 +38,14 @@
 
 ### [Machine Learning](#content)  
 #### 有监督学习
-1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network** Nature Medicine 25, 65–69(2019)
+1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network**     Nature Medicine 25, 65–69(2019)
 
-*Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
+    *Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
 
 #### 无监督学习
-1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy** European Journal of Heart Failure (2018)
+1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy**     European Journal of Heart Failure (2018)
 
-*Maja Cikes1, Sergio Sanchez-Martinez, Brian Claggett, Nicolas Duchateau, Gemma Piella, Constantine Butakoff, Anne Catherine Pouleur, Dorit Knappe, Tor Biering-Sørensen, Valentina Kutyifa, Arthur Moss, Kenneth Stein, Scott D. Solomon, and Bart Bijnens*
+    *Maja Cikes1, Sergio Sanchez-Martinez, Brian Claggett, Nicolas Duchateau, Gemma Piella, Constantine Butakoff, Anne Catherine Pouleur, Dorit Knappe, Tor Biering-Sørensen, Valentina Kutyifa, Arthur Moss, Kenneth Stein, Scott D. Solomon, and Bart Bijnens*
 
 
 ### [Deep Learning](#content)
