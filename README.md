@@ -37,6 +37,11 @@
 ## [Application related](#content)  
 
 ### [Machine Learning](#content)  
+#### 有监督学习
++  **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network**
+[paper](./Application Related/Machine Learning/Supervised learning/2019-Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network.pdf)  
+**Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng
+
 
 ### [Deep Learning](#content)
 
