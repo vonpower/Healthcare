@@ -84,6 +84,10 @@
 
 
 * ### Deep Learning & Radiomics
+1. **Deep learning Radiomics of shear wave elastography significantly improved diagnostic performance for assessing liver fibrosis in chronic hepatitis B: a prospective multicentre study,**  GUT (2018)
+
+    *Wang K, et al.*
+
 1. 基于影像组学和深度迁移学习的超声图像肝纤维化评估方法研究， 深圳大学，硕士学位论文 (2019)
 
     *赵万明*
