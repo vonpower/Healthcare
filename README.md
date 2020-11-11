@@ -30,11 +30,23 @@
 
 ## [Tool related](#content)  
 
+
+
+
 ### [Machine Learning Theory](#content)  
 
-### [Deep Learning Theory](#content)
 
-### [Radiomics Theory](#content)
+
+
+### [Deep Learning Theory](#content)  
+
+
+
+
+### [Radiomics Theory](#content)  
+
+
+
 
 ## [Application related](#content)  
 
@@ -49,7 +61,7 @@
 
     *Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
     
-1. 基于深度学习的医学CT图像中器官的区域检测，南京师范大学，硕士学位论文 (2018)
+1. 基于深度学习的医学CT图像中器官的区域检测， 南京师范大学，硕士学位论文 (2018)
 
     *嵇伟伟*
 
@@ -61,7 +73,7 @@
     *Zhenyu Liu, Xiao-Yan Zhang,Yan-Jie Shi, Lin Wang, Hai-Tao Zhu, Zhenchao Tang, Shuo Wang, Xiao-Ting Li, Jie Tian, and Ying-Shi Sun*
 
 * #### 超声影像
-1. **面向淋巴结病变多分类鉴别的弹性和 B 型 双模态超声影像组学，**    生物医学工程学杂志 2019年12月第36卷第6期
+1. 面向淋巴结病变多分类鉴别的弹性和 B 型 双模态超声影像组学， 生物医学工程学杂志，2019年12月第36卷第6期
 
     *石颉1, 2，江建伟3，常婉英3，陈曼3，张麒1, 2*
 
@@ -72,7 +84,7 @@
 
 
 * ### Deep Learning & Radiomics
-1. 基于影像组学和深度迁移学习的超声图像肝纤维化评估方法研究，** 深圳大学，硕士学位论文 (2019)
+1. 基于影像组学和深度迁移学习的超声图像肝纤维化评估方法研究， 深圳大学，硕士学位论文 (2019)
 
     *赵万明*
 
