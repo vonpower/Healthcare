@@ -54,12 +54,12 @@
 
     *Maja Cikes1, Sergio Sanchez-Martinez, Brian Claggett, Nicolas Duchateau, Gemma Piella, Constantine Butakoff, Anne Catherine Pouleur, Dorit Knappe, Tor Biering-Sørensen, Valentina Kutyifa, Arthur Moss, Kenneth Stein, Scott D. Solomon, and Bart Bijnens*
 
-
-### [Deep Learning](#content)
 1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network**     Nature Medicine 25, 65–69(2019)
 
     *Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
     
+
+### [Deep Learning](#content)
 1. 基于深度学习的医学CT图像中器官的区域检测， 南京师范大学，硕士学位论文 (2018)
 
     *嵇伟伟*
