@@ -6,7 +6,7 @@
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#tool-related">1. Tool related</a></td></tr> 
+<tr><td colspan="2"><a href="#theory">1. Theory</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#machine-learning-theory">1.1 Machine Learning</a></td>
     <td>&ensp;<a href="#deep-learning-theory">1.2 Deep Learning</a></td>
@@ -15,7 +15,7 @@
     <td>&emsp;<a href="#radiomics-theory">1.3 Radiomics</a></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#application-related">2. Application related</a></td></tr>
+<tr><td colspan="2"><a href="#application">2. Application</a></td></tr>
 <tr>
     <td>&emsp;<a href="#machine-learning">2.1 Machine Learning</a></td>
     <td>&ensp;<a href="#deep-learning">2.2 Deep Learning</a></td>
@@ -28,7 +28,7 @@
 <tr><td colspan="2"><a href="related-research-platform">3. Related Research Platform</a></td></tr>
 </table>
 
-## [Tool related](#content)  
+## [Theory](#content)  
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-## [Application related](#content)  
+## [Application](#content)  
 
 ### [Machine Learning](#content)  
 1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy**     European Journal of Heart Failure (2018)
