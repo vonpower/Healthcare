@@ -23,7 +23,6 @@
 <tr>
     <td>&emsp;<a href="#radiomics">2.3 Radiomics</a></td>
     <td>&ensp;<a href="#combination">2.4 Combination</a></td>
-    <td></td>
 </tr>
 <tr><td colspan="2"><a href="related-research-platform">3. Related Research Platform</a></td></tr>
 </table>
