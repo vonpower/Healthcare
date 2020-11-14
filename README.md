@@ -15,7 +15,7 @@
     <td>&emsp;<a href="#radiomics-theory">1.3 Radiomics</a></td>
     <td></td>
 </tr>
-<tr><td colspan="2"><a href="#application">2. Application</a></td></tr>
+<tr><td colspan="2"><a href="#applications">2. Applications</a></td></tr>
 <tr>
     <td>&emsp;<a href="#machine-learning">2.1 Machine Learning</a></td>
     <td>&ensp;<a href="#deep-learning">2.2 Deep Learning</a></td>
@@ -47,7 +47,7 @@
 
 
 
-## [Application](#content)  
+## [Applications](#content)  
 
 ### [Machine Learning](#content)  
 1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy**     European Journal of Heart Failure (2018)
@@ -57,6 +57,10 @@
 1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network**     Nature Medicine 25, 65–69(2019)
 
     *Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
+    
+1. **Performance and Reading Time of Automated Breast US with or without Computer-aided**   Radiology  292:540–549(2019)  
+
+    *Shanling Yang, MD • Xican Gao, MD • Liwen Liu, PhD, MD • Rui Shu, MD • Jingru Yan, MD • Ge Zhang, MD • Yao Xiao, MD • Yan Ju, MS • Ni Zhao, MD • Hongping Song, PhD, MD*
     
 
 ### [Deep Learning](#content)
