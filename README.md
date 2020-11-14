@@ -62,7 +62,10 @@
 
     *Shanling Yang, MD • Xican Gao, MD • Liwen Liu, PhD, MD • Rui Shu, MD • Jingru Yan, MD • Ge Zhang, MD • Yao Xiao, MD • Yan Ju, MS • Ni Zhao, MD • Hongping Song, PhD, MD*
     
+1. **Impact of Data Presentation on Physician Performance Utilizing ArtificialIntelligence-Based Computer-Aided Diagnosis and DecisionSupport Systems,**   Journal of Digital Imaging 32:408–416 (2019)
 
+    *L. Barinov1,2,3 A. Jairaj1 M. Becker3,4 SSeymour1 E. Lee3,4 A. Schram3,4&E. Lane4&A. Goldszal3,4 D. Quigley4 L. Paster3,4*
+    
 ### [Deep Learning](#content)
 1. 基于深度学习的医学CT图像中器官的区域检测， 南京师范大学，硕士学位论文 (2018)
 
