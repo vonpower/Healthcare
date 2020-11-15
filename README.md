@@ -50,19 +50,19 @@
 ## [Applications](#content)  
 
 ### [Machine Learning](#content)  
-1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy,**     European Journal of Heart Failure (2018)  [[*raad*]]()
+1. **Machine learning-based phenogrouping in heart failure to identify responders to cardiac resynchronization therapy,**     European Journal of Heart Failure (2018)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Machine%20Learning/2018-Machine%20learning-based%20phenogrouping%20in%20heart%20failure%20to%20identify%20responders%20to%20cardiac%20resynchronization%20therapy.pdf)
 
     *Maja Cikes1, Sergio Sanchez-Martinez, Brian Claggett, Nicolas Duchateau, Gemma Piella, Constantine Butakoff, Anne Catherine Pouleur, Dorit Knappe, Tor Biering-Sørensen, Valentina Kutyifa, Arthur Moss, Kenneth Stein, Scott D. Solomon, and Bart Bijnens*
 
-1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network,**     Nature Medicine 25, 65–69(2019)  [[*raad*]]()
+1. **Cardiologist-level arrhythmia detection and classification in ambulatory electrocardiograms using a deep neural network,**     Nature Medicine 25, 65–69(2019)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Machine%20Learning/2019-Cardiologist-level%20arrhythmia%20detection%20and%20classification%20in%20ambulatory%20electrocardiograms%20using%20a%20deep%20neural%20network.pdf)
 
     *Awni Y. Hannun  Pranav Rajpurkar, Masoumeh Haghpanahi, Geoffrey H. Tison, Codie Bourn, Mintu P. Turakhia and Andrew Y. Ng*
     
-1. **Performance and Reading Time of Automated Breast US with or without Computer-aided,**   Radiology  292:540–549(2019)  [[*raad*]]()
+1. **Performance and Reading Time of Automated Breast US with or without Computer-aided,**   Radiology  292:540–549(2019)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Machine%20Learning/2019-Performance%20and%20Reading%20Time%20of%20Automated%20Breast%20US%20with%20or%20without%20Computer-aided.pdf)
 
     *Shanling Yang, MD • Xican Gao, MD • Liwen Liu, PhD, MD • Rui Shu, MD • Jingru Yan, MD • Ge Zhang, MD • Yao Xiao, MD • Yan Ju, MS • Ni Zhao, MD • Hongping Song, PhD, MD*
     
-1. **Impact of Data Presentation on Physician Performance Utilizing ArtificialIntelligence-Based Computer-Aided Diagnosis and DecisionSupport Systems,**   Journal of Digital Imaging 32:408–416 (2019)  [[*raad*]]()
+1. **Impact of Data Presentation on Physician Performance Utilizing ArtificialIntelligence-Based Computer-Aided Diagnosis and DecisionSupport Systems,**   Journal of Digital Imaging 32:408–416 (2019)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Machine%20Learning/Impact%20of%20Data%20Presentation%20on%20Physician%20Performance%20Utilizing%20ArtificialIntelligence-Based%20Computer-Aided%20Diagnosis%20and%20DecisionSupport%20Systems.pdf)
 
     *L. Barinov1,2,3 A. Jairaj1 M. Becker3,4 SSeymour1 E. Lee3,4 A. Schram3,4&E. Lane4&A. Goldszal3,4 D. Quigley4 L. Paster3,4*
     
@@ -82,12 +82,12 @@
 ### [Radiomics](#content)
 
 * #### 非超声影像
-1. **Radiomics Analysis for Evaluation of Pathological Complete Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer,**    Clinical Cancer Research (2017)  [[*raad*]]()
+1. **Radiomics Analysis for Evaluation of Pathological Complete Response to Neoadjuvant Chemoradiotherapy in Locally Advanced Rectal Cancer,**    Clinical Cancer Research (2017)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Radiomics/%E9%9D%9E%E8%B6%85%E5%A3%B0%E5%BD%B1%E5%83%8F/2017-Radiomics%20Analysis%20for%20Evaluation%20of%20Pathological%20Complete%20Response%20to%20Neoadjuvant%20Chemoradiotherapy%20in%20Locally%20Advanced%20Rectal%20Cancer.pdf)
 
     *Zhenyu Liu, Xiao-Yan Zhang,Yan-Jie Shi, Lin Wang, Hai-Tao Zhu, Zhenchao Tang, Shuo Wang, Xiao-Ting Li, Jie Tian, and Ying-Shi Sun*
 
 * #### 超声影像
-1. 面向淋巴结病变多分类鉴别的弹性和 B 型 双模态超声影像组学， 生物医学工程学杂志，2019年12月第36卷第6期  [[*raad*]]()
+1. 面向淋巴结病变多分类鉴别的弹性和 B 型 双模态超声影像组学， 生物医学工程学杂志，2019年12月第36卷第6期  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Radiomics/%E8%B6%85%E5%A3%B0%E5%BD%B1%E5%83%8F/%E9%9D%A2%E5%90%91%E6%B7%8B%E5%B7%B4%E7%BB%93%E7%97%85%E5%8F%98%E5%A4%9A%E5%88%86%E7%B1%BB%E9%89%B4%E5%88%AB%E7%9A%84%E5%BC%B9%E6%80%A7%E5%92%8CB%E5%9E%8B%E5%8F%8C%E6%A8%A1%E6%80%81%E8%B6%85%E5%A3%B0%E5%BD%B1%E5%83%8F%E7%BB%84%E5%AD%A6_%E7%9F%B3%E9%A2%89.pdf)
 
     *石颉1, 2，江建伟3，常婉英3，陈曼3，张麒1, 2*
 
@@ -98,11 +98,11 @@
 
 
 * ### Deep Learning & Radiomics
-1. **Deep learning Radiomics of shear wave elastography significantly improved diagnostic performance for assessing liver fibrosis in chronic hepatitis B: a prospective multicentre study,**  GUT (2018)  [[*raad*]]()
+1. **Deep learning Radiomics of shear wave elastography significantly improved diagnostic performance for assessing liver fibrosis in chronic hepatitis B: a prospective multicentre study,**  GUT (2018)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/2018-GUT-WangKun.pdf)
 
     *Wang K, et al.*
 
-1. 基于影像组学和深度迁移学习的超声图像肝纤维化评估方法研究， 深圳大学，硕士学位论文 (2019)  [[*raad*]]()
+1. 基于影像组学和深度迁移学习的超声图像肝纤维化评估方法研究， 深圳大学，硕士学位论文 (2019)  [[*raad*]](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/%E5%9F%BA%E4%BA%8E%E5%BD%B1%E5%83%8F%E7%BB%84%E5%AD%A6%E5%92%8C%E6%B7%B1%E5%BA%A6%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0%E7%9A%84%E8%B6%85%E5%A3%B0%E5%9B%BE%E5%83%8F%E8%82%9D%E7%BA%A4%E7%BB%B4%E5%8C%96%E8%AF%84%E4%BC%B0%E6%96%B9%E6%B3%95%E7%A0%94%E7%A9%B6_%E8%B5%B5%E4%B8%87%E6%98%8E.caj)
 
     *赵万明*
 
