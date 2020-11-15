@@ -74,6 +74,10 @@
 1. 基于大数据和人工智能的超声医学发展现状及问题研究， 综述，肿瘤影像学，2020年第29卷第4期
 
     *王海星1，杨志清1，郭玲玲1，郭燕青1，张　靓1，齐　昊1，2*
+    
+1. **Management of Thyroid Nodules Seen on US Images:Deep Learning May Match Performance of Radiologists，**   Radiology  292:695–701(2019) [paper](https://doi.org/10.1148/radiol.2019181343)
+
+    *Mateusz Buda, MSc • Benjamin Wildman-Tobriner, MD • Jenny K. Hoang, MBBS, MHS • David Thayer, PhD, MD •Franklin N. Tessler, MD • William D. Middleton, MD • Maciej A. Mazurowski, PhD*
 
 ### [Radiomics](#content)
 
@@ -104,3 +108,4 @@
 
 ## [Related Research Platform](#content)
 + [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
++ [Radiology](https://pubs.rsna.org/journal/radiology)
