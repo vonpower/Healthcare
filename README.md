@@ -79,9 +79,6 @@
 
     *Mateusz Buda, MSc • Benjamin Wildman-Tobriner, MD • Jenny K. Hoang, MBBS, MHS • David Thayer, PhD, MD •Franklin N. Tessler, MD • William D. Middleton, MD • Maciej A. Mazurowski, PhD*
     
-1. 计算机辅助诊断技术在超声医学中的应用进展, 综述，肿瘤影像学，2019年第28卷第5期[*[read]*](/Applications/Deep%20Learning/计算机辅助诊断技术在超声医学中的应用进展.pdf)
-
- *毕　珂，王　茵*
 
 ### [Radiomics](#content)
 
@@ -113,3 +110,12 @@
 ## [Related Research Platform](#content)
 + [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
 + [Radiology](https://pubs.rsna.org/journal/radiology)
+
+## [综述](#content)
+1. 计算机辅助诊断技术在超声医学中的应用进展, 综述，肿瘤影像学，2019年第28卷第5期[*[read]*](/Applications/Deep%20Learning/计算机辅助诊断技术在超声医学中的应用进展.pdf)
+
+    *毕　珂，王　茵*
+    
+1. 人工智能时代超声医学新发展，综述，第二军医大学学报，2019 年 5 月第 40 卷第 5 期[*[read]*](/Applications/Deep%20Learning/计算机辅助诊断技术在超声医学中的应用进展.pdf)
+
+    *赵佳琦，刁宗平，徐  琪，章建全*
