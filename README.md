@@ -80,9 +80,9 @@
 
     *DAN MENG, LIBO ZHANG, GUITAO CAO, WENMING CAO, GUIXU ZHANG, AND BING HU*
     
-1. **Learning to diagnose cirrhosis with liver capsule guided ultrasound image classification，**   Sensors (2017) [*[read]*](/Applications/Deep%20Learning/Deep%20Learning/Learning%20to%20diagnose%20cirrhosis%20with%20liver%20capsule%20guided%20ultrasound%20image%20classification.pdf)
+1. **Learning to diagnose cirrhosis with liver capsule guided ultrasound image classification，**   Sensors (2017) [*[read]*](/Applications/Deep%20Learning/Learning%20to%20diagnose%20cirrhosis%20with%20liver%20capsule%20guided%20ultrasound%20image%20classification.pdf)
 
-    *Xiang Liu , Jia Lin Song , Shuo Hong Wang , Jing Wen Zhao and Yan Qiu Chen *
+    *Xiang Liu , Jia Lin Song , Shuo Hong Wang , Jing Wen Zhao and Yan Qiu Chen*
     
 
 ### [Radiomics](#content)
