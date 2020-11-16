@@ -24,7 +24,8 @@
     <td>&emsp;<a href="#radiomics">2.3 Radiomics</a></td>
     <td>&ensp;<a href="#combination">2.4 Combination</a></td>
 </tr>
-<tr><td colspan="2"><a href="related-research-platform">3. Related Research Platform</a></td></tr>
+ <tr><td colspan="2"><a href="literature-review">3. Literature-review</a></td></tr>
+<tr><td colspan="2"><a href="related-research-platform">4. Related Research Platform</a></td></tr>
 </table>
 
 ## [Theory](#content)  
@@ -71,10 +72,6 @@
 
     *嵇伟伟*
     
-1. 基于大数据和人工智能的超声医学发展现状及问题研究， 综述，肿瘤影像学，2020年第29卷第4期 [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%B6%85%E5%A3%B0%E5%8C%BB%E5%AD%A6%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E5%8F%8A%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.pdf)
-
-    *王海星1，杨志清1，郭玲玲1，郭燕青1，张　靓1，齐　昊1，2*
-    
 1. **Management of Thyroid Nodules Seen on US Images:Deep Learning May Match Performance of Radiologists，**   Radiology  292:695–701(2019) [*[read]*](https://doi.org/10.1148/radiol.2019181343)
 
     *Mateusz Buda, MSc • Benjamin Wildman-Tobriner, MD • Jenny K. Hoang, MBBS, MHS • David Thayer, PhD, MD •Franklin N. Tessler, MD • William D. Middleton, MD • Maciej A. Mazurowski, PhD*
@@ -111,11 +108,15 @@
 + [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
 + [Radiology](https://pubs.rsna.org/journal/radiology)
 
-## [综述](#content)
-1. 计算机辅助诊断技术在超声医学中的应用进展, 综述，肿瘤影像学，2019年第28卷第5期[*[read]*](/Applications/Deep%20Learning/计算机辅助诊断技术在超声医学中的应用进展.pdf)
+## [Literature review](#content)
+1. 计算机辅助诊断技术在超声医学中的应用进展, 综述，肿瘤影像学，2019年第28卷第5期[*[read]*](/Literature%20review/计算机辅助诊断技术在超声医学中的应用进展.pdf)
 
     *毕　珂，王　茵*
     
-1. 人工智能时代超声医学新发展，综述，第二军医大学学报，2019 年 5 月第 40 卷第 5 期[*[read]*](/Applications/Deep%20Learning/计算机辅助诊断技术在超声医学中的应用进展.pdf)
+1. 人工智能时代超声医学新发展，综述，第二军医大学学报，2019 年 5 月第 40 卷第 5 期[*[read]*](/Literature%20review/计算机辅助诊断技术在超声医学中的应用进展.pdf)
 
     *赵佳琦，刁宗平，徐  琪，章建全*
+    
+1. 基于大数据和人工智能的超声医学发展现状及问题研究， 综述，肿瘤影像学，2020年第29卷第4期 [*[read]*](/Literature%20review/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%B6%85%E5%A3%B0%E5%8C%BB%E5%AD%A6%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E5%8F%8A%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.pdf)
+
+    *王海星1，杨志清1，郭玲玲1，郭燕青1，张　靓1，齐　昊1，2*
