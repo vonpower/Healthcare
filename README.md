@@ -24,7 +24,7 @@
     <td>&emsp;<a href="#radiomics">2.3 Radiomics</a></td>
     <td>&ensp;<a href="#combination">2.4 Combination</a></td>
 </tr>
- <tr><td colspan="2"><a href="literature-review">3. Literature-review</a></td></tr>
+ <tr><td colspan="2"><a href="literature-review">3. Literature review</a></td></tr>
 <tr><td colspan="2"><a href="related-research-platform">4. Related Research Platform</a></td></tr>
 </table>
 
@@ -68,7 +68,7 @@
     *L. Barinov1,2,3 A. Jairaj1 M. Becker3,4 SSeymour1 E. Lee3,4 A. Schram3,4&E. Lane4&A. Goldszal3,4 D. Quigley4 L. Paster3,4*
     
 ### [Deep Learning](#content)
-1. 基于深度学习的医学CT图像中器官的区域检测， 南京师范大学，硕士学位论文 (2018)  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%8C%BB%E5%AD%A6CT%E5%9B%BE%E5%83%8F%E4%B8%AD%E5%99%A8%E5%AE%98%E7%9A%84%E5%8C%BA%E5%9F%9F%E6%A3%80%E6%B5%8B_%E5%B5%87%E4%BC%9F%E4%BC%9F.pdf)
+1. 基于深度学习的医学CT图像中器官的区域检测， 南京师范大学，硕士学位论文 (2018)  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/基于深度学习的医学CT图像中器官的区域检测.caj)
 
     *嵇伟伟*
     
@@ -109,7 +109,7 @@
 
     *毕　珂，王　茵*
     
-1. 人工智能时代超声医学新发展，综述，第二军医大学学报，2019 年 5 月第 40 卷第 5 期[*[read]*](/Literature%20review/计算机辅助诊断技术在超声医学中的应用进展.pdf)
+1. 人工智能时代超声医学新发展，综述，第二军医大学学报，2019 年 5 月第 40 卷第 5 期[*[read]*](/Literature%20review/人工智能时代超声医学新发展.pdf)
 
     *赵佳琦，刁宗平，徐  琪，章建全*
     
