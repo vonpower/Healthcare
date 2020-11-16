@@ -104,10 +104,6 @@
 
     *赵万明*
 
-## [Related Research Platform](#content)
-+ [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
-+ [Radiology](https://pubs.rsna.org/journal/radiology)
-
 ## [Literature review](#content)
 1. 计算机辅助诊断技术在超声医学中的应用进展, 综述，肿瘤影像学，2019年第28卷第5期[*[read]*](/Literature%20review/计算机辅助诊断技术在超声医学中的应用进展.pdf)
 
@@ -119,4 +115,8 @@
     
 1. 基于大数据和人工智能的超声医学发展现状及问题研究， 综述，肿瘤影像学，2020年第29卷第4期 [*[read]*](/Literature%20review/%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%9A%84%E8%B6%85%E5%A3%B0%E5%8C%BB%E5%AD%A6%E5%8F%91%E5%B1%95%E7%8E%B0%E7%8A%B6%E5%8F%8A%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6.pdf)
 
-    *王海星1，杨志清1，郭玲玲1，郭燕青1，张　靓1，齐　昊1，2*
+    *王海星，杨志清，郭玲玲，郭燕青，张　靓，齐　昊*
+    
+## [Related Research Platform](#content)
++ [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
++ [Radiology](https://pubs.rsna.org/journal/radiology)
