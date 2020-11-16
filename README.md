@@ -76,11 +76,11 @@
 
     *Mateusz Buda, MSc • Benjamin Wildman-Tobriner, MD • Jenny K. Hoang, MBBS, MHS • David Thayer, PhD, MD •Franklin N. Tessler, MD • William D. Middleton, MD • Maciej A. Mazurowski, PhD*
     
-1. **Liver fibrosis classification based on transfer learning and FCNet for ultrasound images，**   IEEE (2017) [*[read]*](/Applications/Deep%20Learning/Liver fibrosis classification based on transfer learning and FCNet for ultrasound images.pdf)
+1. **Liver fibrosis classification based on transfer learning and FCNet for ultrasound images，**   IEEE (2017) [*[read]*](/Applications/Deep%20Learning/Liver%20fibrosis%20classification%20based%20on%20transfer%20learning%20and%20FCNet%20for%20ultrasound%20images.pdf)
 
     *DAN MENG, LIBO ZHANG, GUITAO CAO, WENMING CAO, GUIXU ZHANG, AND BING HU*
     
-1. **Learning to diagnose cirrhosis with liver capsule guided ultrasound image classification，**   Sensors (2017) [*[read]*](/Applications/Deep%20Learning/Learning to diagnose cirrhosis with liver capsule guided ultrasound image classification.pdf)
+1. **Learning to diagnose cirrhosis with liver capsule guided ultrasound image classification，**   Sensors (2017) [*[read]*](/Applications/Deep%20Learning/Deep%20Learning/Learning%20to%20diagnose%20cirrhosis%20with%20liver%20capsule%20guided%20ultrasound%20image%20classification.pdf)
 
     *Xiang Liu , Jia Lin Song , Shuo Hong Wang , Jing Wen Zhao and Yan Qiu Chen *
     
