@@ -88,6 +88,7 @@
 
     *Zhantao Cao1, Lixin Duan, Guowu Yang, Ting Yue, Qin Chen, Huazhu Fu, and Yanwu Xu* 
     
+1. **Automated detection and classification of thyroid nodules in ultrasound images using clinical-knowledge-guided convolutional neural networks,**   Medical Image Analysis, 58(2019)  [*[read]*] (https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/AutomatedDetectionandClassificationofThyroidNodulesinUltrasoundImagesUsingClinical-Knowledge-GuidedConvolutionalNeuralNetworks-Proof.pdf)
 
 ### [Radiomics](#content)
 
