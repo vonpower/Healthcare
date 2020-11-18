@@ -84,6 +84,10 @@
 
     *Xiang Liu , Jia Lin Song , Shuo Hong Wang , Jing Wen Zhao and Yan Qiu Chen*
     
+1. **Breast Tumor Detection in Ultrasound Images Using Deep Learning，**   __Conference Paper__  in  Lecture Notes in Computer Science · August 2017  [*[read]*](/Applications/Deep%20Learning/Breast%20Tumor%20Detection%20in%20Ultrasound%20Images%20Using%20Deep%20Learning.pdf)
+
+    *Zhantao Cao1, Lixin Duan, Guowu Yang, Ting Yue, Qin Chen, Huazhu Fu, and Yanwu Xu* 
+    
 
 ### [Radiomics](#content)
 
@@ -125,7 +129,7 @@
 
     *王海星，杨志清，郭玲玲，郭燕青，张　靓，齐　昊*
     
-1. 深度学习在医学超声图像分析中的应用综述，Engineering， 5(2): 261–275 (2019) [*[read]*](http://www.engineering.org.cn/ch/10.1016/j.eng.2018.11.020)[*[英文原文]*](https://doi.org/10.1016/j.eng.2018.11.020)
+1. 深度学习在医学超声图像分析中的应用综述，Engineering， 5(2): 261–275 (2019) [*[read]*](http://www.engineering.org.cn/ch/10.1016/j.eng.2018.11.020)  [*[英文原文]*](https://doi.org/10.1016/j.eng.2018.11.020)
 
     *刘盛锋，王毅，杨鑫，雷柏英，刘立，李享，倪东,汪天富*
     
