@@ -86,9 +86,11 @@
     
 1. **Breast Tumor Detection in Ultrasound Images Using Deep Learning，**   __Conference Paper__  in  Lecture Notes in Computer Science · August 2017  [*[read]*](/Applications/Deep%20Learning/Breast%20Tumor%20Detection%20in%20Ultrasound%20Images%20Using%20Deep%20Learning.pdf)
 
-    *Zhantao Cao1, Lixin Duan, Guowu Yang, Ting Yue, Qin Chen, Huazhu Fu, and Yanwu Xu* 
+    *Zhantao Cao, Lixin Duan, Guowu Yang, Ting Yue, Qin Chen, Huazhu Fu, and Yanwu Xu* 
     
 1. **Automated detection and classification of thyroid nodules in ultrasound images using clinical-knowledge-guided convolutional neural networks,**   Medical Image Analysis, 58(2019)  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/AutomatedDetectionandClassificationofThyroidNodulesinUltrasoundImagesUsingClinical-Knowledge-GuidedConvolutionalNeuralNetworks-Proof.pdf)
+
+    *TianjiaoLiu,QianqianGuo,ChunfengLian,XuhuaRen,ShujunLiang,JingYug,LijuanNiu,WeidongSun,DinggangShen*
 
 ### [Radiomics](#content)
 
