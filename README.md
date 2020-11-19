@@ -136,8 +136,11 @@
 
     *刘盛锋，王毅，杨鑫，雷柏英，刘立，李享，倪东,汪天富*
     
+1. **A Survey on Domain Knowledge Powered Deep Learning for Medical Image Analysis**，arXiv e-prints， (2020) [*[read]*](/Servey%20And%20Review/A%20Survey%20on%20Domain%20Knowledge%20Powered%20Deep.pdf)
 
+    *Xiaozheng Xie, Jianwei Niu, Senior Member, IEEE, Xuefeng Liu, Zhengsu Chen, and ShaojieTang, Member, IEEE*
     
 ## [Related Research Platform](#content)
 + [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
 + [Radiology](https://pubs.rsna.org/journal/radiology)
++ [混合成像系统实验室](http://www.hislab.cn/publication)
