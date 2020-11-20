@@ -44,6 +44,10 @@
 
 
 ### [Radiomics Theory](#content)  
+1. 医学成像技术，重庆大学出版社，（2005）  [*[read]*](/Theory/Radiomics/医学成像技术.pdf)
+
+    *郭兴明*
+
 
 
 
