@@ -71,6 +71,10 @@
 
     *L. Barinov1,2,3 A. Jairaj1 M. Becker3,4 SSeymour1 E. Lee3,4 A. Schram3,4&E. Lane4&A. Goldszal3,4 D. Quigley4 L. Paster3,4*
     
+ 1. 基于支持向量机的肝脏肿瘤良、恶性识别研究，浙江大学，硕士学位论文（2012）  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Machine%20Learning/基于支持向量机的肝脏肿瘤良、恶性识别研究（2012硕士论文）.pdf)
+ 
+     *叶萌萌*
+    
 ### [Deep Learning](#content)
 1. 基于深度学习的医学CT图像中器官的区域检测， 南京师范大学，硕士学位论文 (2018)  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/基于深度学习的医学CT图像中器官的区域检测_嵇伟伟.caj)
 
