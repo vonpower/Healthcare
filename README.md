@@ -24,9 +24,9 @@
     <td>&emsp;<a href="#radiomics">2.3 Radiomics</a></td>
     <td>&ensp;<a href="#combination">2.4 Combination</a></td>
 </tr>
- <tr><td colspan="2"><a href="survey-and-review">3. Survey And Review</a></td></tr>
-<tr><td colspan="2"><a href="related-research-platform">4. Related Research Platform</a></td></tr>
- <tr><td colspan="2"><a href="public-data">5. Public Data</a></td></tr>
+ <tr><td colspan="2"><a href="#survey-and-review">3. Survey And Review</a></td></tr>
+<tr><td colspan="2"><a href="#related-research-platform">4. Related Research Platform</a></td></tr>
+ <tr><td colspan="2"><a href="#public-data">5. Public Data</a></td></tr>
 </table>
 
 ## [Theory](#content)  
