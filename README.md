@@ -113,7 +113,7 @@
 
     *石颉1, 2，江建伟3，常婉英3，陈曼3，张麒1, 2*
     
-1. 实时超声造影技术诊断肾脏实性占位病变的价值，南方医科大学学报，2014  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Radiomics/_实时超声造影技术诊断肾脏实性占位病变的价值.pdf)
+1. 实时超声造影技术诊断肾脏实性占位病变的价值，南方医科大学学报，2014  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Radiomics/%E8%B6%85%E5%A3%B0%E5%BD%B1%E5%83%8F/_%E5%AE%9E%E6%97%B6%E8%B6%85%E5%A3%B0%E9%80%A0%E5%BD%B1%E6%8A%80%E6%9C%AF%E8%AF%8A%E6%96%AD%E8%82%BE%E8%84%8F%E5%AE%9E%E6%80%A7%E5%8D%A0%E4%BD%8D%E7%97%85%E5%8F%98%E7%9A%84%E4%BB%B7%E5%80%BC.pdf)
 
     *李 鑫，梁 萍，于晓玲，于 杰，程志刚，韩志宇，刘方义，穆梦娟*
 
