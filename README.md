@@ -101,7 +101,7 @@
 
     *TianjiaoLiu,QianqianGuo,ChunfengLian,XuhuaRen,ShujunLiang,JingYug,LijuanNiu,WeidongSun,DinggangShen*
     
-1. **Ensembled deep learning model outperforms human experts in diagnosing biliary atresia from sonographic gallbladder images,**   nature communications, 2021  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/Ensembled%20deep%20learning%20model%20outperforms%20human%20experts%20in%20diagnosing%20biliary%20atresia%20from%20sonographic%20gallbladder%20images.pdf)
+1. **Ensembled deep learning model outperforms human experts in diagnosing biliary atresia from sonographic gallbladder images,**   nature communications, 2021  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/Ensembled%20deep%20learning%20model%20outperforms%20human%20experts%20in%20diagnosing.pdf)
 
     *Wenying Zhou, Yang Yang, Cheng Yu, Juxian Liu and Xingxing Duan et al.*
 
