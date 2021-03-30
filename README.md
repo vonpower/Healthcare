@@ -100,6 +100,10 @@
 1. **Automated detection and classification of thyroid nodules in ultrasound images using clinical-knowledge-guided convolutional neural networks,**   Medical Image Analysis, 58(2019)  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/AutomatedDetectionandClassificationofThyroidNodulesinUltrasoundImagesUsingClinical-Knowledge-GuidedConvolutionalNeuralNetworks-Proof.pdf)
 
     *TianjiaoLiu,QianqianGuo,ChunfengLian,XuhuaRen,ShujunLiang,JingYug,LijuanNiu,WeidongSun,DinggangShen*
+    
+1. **Ensembled deep learning model outperforms human experts in diagnosing biliary atresia from sonographic gallbladder images,**   nature communications, 2021  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/Ensembled%20deep%20learning%20model%20outperforms%20human%20experts%20in%20diagnosing%20biliary%20atresia%20from%20sonographic%20gallbladder%20images.pdf)
+
+    *Wenying Zhou, Yang Yang, Cheng Yu, Juxian Liu and Xingxing Duan et al.*
 
 ### [Radiomics](#content)
 
@@ -178,3 +182,4 @@
 + [前列腺癌数据集](http://www.ehealthlab.cs.ucy.ac.cy/index.php/facilities/32-software/218-datasets)
 + [DeepLesion:多类别、病灶级别标注临床医疗CT图像开放数据集（230G）](https://academictorrents.com/details/de50f4d4aa3d028944647a56199c07f5fa6030ff)
 + [MURA:基于深度学习检测骨骼疾病(吴恩达团队公布)](https://www.groundai.com/project/mura-dataset-towards-radiologist-level-abnormality-detection-in-musculoskeletal-radiographs/3)
++ [LiTS肝脏/肝肿瘤分割](https://aistudio.baidu.com/aistudio/datasetdetail/10273)
