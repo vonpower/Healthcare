@@ -136,6 +136,15 @@
 
     *赵万明*
 
+1.**Multiple-correlation similarity for block-matching based fast CT to ultrasound registration in liver interventions**，Medical Image Analysis， (2019) [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/j.media.2019.02.003.pdf)
+
+    *Jyotirmoy Banerjee, Yuanyuan Sun, Camiel Klink, Theo van Walsum, et al.*
+    
+1.**PAIP 2019: Liver cancer segmentation challenge**，Medical Image Analysis， (2021) [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/j.media.2019.02.003.pdf)
+
+    *Yoo Jung Kim, Hyungjoon Jang, Kyoungbun Lee, Jinwook Choi, et al.*
+    
+
 ## [Survey And Review](#content)
 1. 计算机辅助诊断技术在超声医学中的应用进展, 综述，肿瘤影像学，2019年第28卷第5期[*[read]*](/Servey%20And%20Review/计算机辅助诊断技术在超声医学中的应用进展.pdf)
 
@@ -157,6 +166,7 @@
 
     *Xiaozheng Xie, Jianwei Niu, Senior Member, IEEE, Xuefeng Liu, Zhengsu Chen, and ShaojieTang, Member, IEEE*
     
+
 ## [Related Research Platform](#content)
 + [中国科学院分子影像重点实验室](http://www.radiomics.net.cn/blog/3)
 + [Radiology](https://pubs.rsna.org/journal/radiology)
