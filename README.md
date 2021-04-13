@@ -136,11 +136,11 @@
 
     *赵万明*
 
-1.**Multiple-correlation similarity for block-matching based fast CT to ultrasound registration in liver interventions**，Medical Image Analysis， (2019) [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/j.media.2019.02.003.pdf)
+1. **Multiple-correlation similarity for block-matching based fast CT to ultrasound registration in liver interventions**，Medical Image Analysis， (2019) [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/j.media.2019.02.003.pdf)
 
     *Jyotirmoy Banerjee, Yuanyuan Sun, Camiel Klink, Theo van Walsum, et al.*
     
-1.**PAIP 2019: Liver cancer segmentation challenge**，Medical Image Analysis， (2021) [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/j.media.2019.02.003.pdf)
+1. **PAIP 2019: Liver cancer segmentation challenge**，Medical Image Analysis， (2021) [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Combination/Deep%20Learning%2BRadiomics/PAIP-2019--Liver-cancer-segmentation-challenge_2021_Medical-Image-Analysis.pdf)
 
     *Yoo Jung Kim, Hyungjoon Jang, Kyoungbun Lee, Jinwook Choi, et al.*
     
