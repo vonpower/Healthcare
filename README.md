@@ -104,6 +104,10 @@
 1. **Ensembled deep learning model outperforms human experts in diagnosing biliary atresia from sonographic gallbladder images,**   nature communications, 2021  [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/Ensembled%20deep%20learning%20model%20outperforms%20human%20experts%20in%20diagnosing.pdf)
 
     *Wenying Zhou, Yang Yang, Cheng Yu, Juxian Liu and Xingxing Duan et al.*
+    
+1. **Automated detection and classification of thyroid nodules in ultrasound images using clinical-knowledge-guided convolutional neural networks,**   Medical Image Analysis, 2019, [*[read]*](https://github.com/vonpower/Healthcare/blob/main/Applications/Deep%20Learning/Automated%20detection%20and%20classification%20of%20thyroid%20nodules%20in%20ultrasound%20images%20using%20clinical-knowledge-guided%20convolutional%20neural%20networks.pdf)
+
+   *Tianjiao Liu, Qianqian Guo, Chunfeng Lian et al.*
 
 ### [Radiomics](#content)
 
