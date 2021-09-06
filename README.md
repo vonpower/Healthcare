@@ -197,3 +197,4 @@
 + [DeepLesion:多类别、病灶级别标注临床医疗CT图像开放数据集（230G）](https://academictorrents.com/details/de50f4d4aa3d028944647a56199c07f5fa6030ff)
 + [MURA:基于深度学习检测骨骼疾病(吴恩达团队公布)](https://www.groundai.com/project/mura-dataset-towards-radiologist-level-abnormality-detection-in-musculoskeletal-radiographs/3)
 + [LiTS肝脏/肝肿瘤分割](https://aistudio.baidu.com/aistudio/datasetdetail/10273)
++ [脂肪肝超声图像数据](https://zenodo.org/record/1009146#.YTXYeJ0zZPY)
